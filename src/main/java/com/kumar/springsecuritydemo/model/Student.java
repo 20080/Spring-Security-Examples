@@ -1,4 +1,4 @@
-package com.kumar.springsecuritydemo;
+package com.kumar.springsecuritydemo.model;
 
 
 public class Student {
